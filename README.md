@@ -1,0 +1,1 @@
+Solving a series of SQL problems to test my database querying skills. This challenges will vary in complexity, requiring Me to write SQL queries to retrieve, update, and manipulate data in a given database schema
